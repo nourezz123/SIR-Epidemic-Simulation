@@ -1,0 +1,19 @@
+# Compiled binaries
+seq/sir_seq
+parallel/sir_hybrid
+
+# Object files
+*.o
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.swp
+*~
